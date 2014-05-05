@@ -1,0 +1,8 @@
+I:\Programación III\Proyectos\Tarea loggin\bin\Debug\Tarea loggin.exe
+I:\Programación III\Proyectos\Tarea loggin\bin\Debug\Tarea loggin.pdb
+I:\Programación III\Proyectos\Tarea loggin\obj\Debug\ResolveAssemblyReference.cache
+I:\Programación III\Proyectos\Tarea loggin\obj\Debug\Tarea_loggin.MainForm.resources
+I:\Programación III\Proyectos\Tarea loggin\obj\Debug\GenerateResource.read.1.tlog
+I:\Programación III\Proyectos\Tarea loggin\obj\Debug\GenerateResource.write.1.tlog
+I:\Programación III\Proyectos\Tarea loggin\obj\Debug\Tarea loggin.exe
+I:\Programación III\Proyectos\Tarea loggin\obj\Debug\Tarea loggin.pdb
